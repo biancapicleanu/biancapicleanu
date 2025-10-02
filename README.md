@@ -2,13 +2,12 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-Bianca%20Picleanu-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bianca-picleanu)  
 ![Gmail](https://img.shields.io/badge/Gmail-picleanubianca@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
----
+
 
 🎓 Graduated from the **Faculty of Cybernetics, Statistics and Economic Informatics**, majoring in **Economic Informatics**.  
 📚 Currently pursuing a Master’s degree in **Databases – Business Support**.  
 💡 Passionate about **IT, software development and data analysis**.  
 
----
 
 ## 🌟 About Me
 - 🔍 Problem-solver, curious and always eager to learn.  
@@ -16,7 +15,6 @@
 - 📊 Interested in **data science, business intelligence and interactive applications**.  
 - 🌍 Open to collaborations and impactful projects.  
 
----
 ## 🛠️ Tech Stack  
 
 **Frontend**  
@@ -59,19 +57,16 @@
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 
----
 
 ## 🚀 Projects
 🔹 [ClinixCentral](https://github.com/biancapicleanu/ProiectLicentaPicleanuBianca) – medical web application (MERN stack)  
 🔹 [Remote WMI App](https://github.com/biancapicleanu/proiectRetele) – remote system management tool using WMI  
 🔹 Academic projects in **demography and econometrics**  
 
----
 
 ## 📊 GitHub Stats
 ![Bianca's GitHub stats](https://github-readme-stats.vercel.app/api?username=biancapicleanu&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=biancapicleanu&layout=compact&theme=tokyonight)  
 
----
 
 ✨ _Always learning. Always building._ ✨
